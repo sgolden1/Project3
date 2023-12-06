@@ -1,3 +1,0 @@
-Name: Collaborator 1
-Email: collaborator1@example.com
-Phone: 123-456-7890
